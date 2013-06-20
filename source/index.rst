@@ -1,28 +1,73 @@
-.. How to create a community? documentation master file, created by
-   sphinx-quickstart on Wed Jun 19 13:10:31 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+¿Como crear una comunidad de Developers?
+========================================
 
-Welcome to How to create a community?'s documentation!
-======================================================
+http://python.do
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-  
-   whycommunities
-   whypython
-   meetingunclesam
-   lessonslearned
-   thingsweareworkingon
-   thefutureofpydo
+@python_do
 
 
-Indices and tables
-==================
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Por que crear comunidades?
+--------------------------
 
+Eneldo
+
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
+
+
+Por que Python
+--------------
+
+
+Eneldo
+
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
+
+
+Conoce al tio Sam
+-----------------
+
+
+Eneldo
+
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
+
+
+
+Lecciones aprendidas
+--------------------
+
+Leo
+
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
+
+
+En que estamos trabajando
+-------------------------
+
+leo
+
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
+
+
+El futuro de Python Dominicana
+------------------------------
+
+leo
+
+.. image:: _static/pydologo.png
+    :align: center
+    :alt: alternate text
