@@ -12,7 +12,11 @@ Contents:
    :maxdepth: 2
   
    whycommunities
-    
+   whypython
+   meetingunclesam
+   lessonslearned
+   thingsweareworkingon
+   thefutureofpydo
 
 
 Indices and tables
